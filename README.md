@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Naomi</h1>
 <h3 align="center">I'm passionate about of the intersection of science & technology, I enjoy to learn new things and as a front-end developer I leverage my skills to build useful apps and satisfying user experiences with a gender perspective.</h3>
