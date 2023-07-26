@@ -7,7 +7,7 @@ I'm usually on the lookout for new technologies or practices to learn, and  this
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Angular and Testing**
+- 🌱 I’m currently learning **Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
