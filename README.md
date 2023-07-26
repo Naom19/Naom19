@@ -5,7 +5,7 @@
 I'm usually on the lookout for new technologies or practices to learn, and  this has been a fascinating journey so far. <br><br>
 </h3>
 
-- 🔭 I’m currently working on **CommitTracker**
+- 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **Angular and Testing**
 
