@@ -3,8 +3,7 @@
 <h3 align="center">"Coming from a background in Biology, I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to switch careers and become a front-end developer. I like to live with purpose, all the time I’m looking for my work to have a positive social impact and minimize my environmental impact. <br><br>
 
 I'm usually on the lookout for new technologies or practices to learn, and  this has been a fascinating journey so far. <br><br>
-
-Another big thing for me is making sure there's a gender perspective in tech. To help make this happen, I started a Cyberfeminism project. It's about highlighting the awesome work women have done and are doing in our field, reminding everyone how important diversity and inclusivity are.”</h3>
+”</h3>
 
 - 🔭 I’m currently working on **CommitTracker**
 
