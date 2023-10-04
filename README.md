@@ -7,7 +7,7 @@ Curious fact: I like to live with purpose, I’m looking for my work to have a p
 
 - 🔭 I’m currently working on **Testing cool apps!**
 
-- 🌱 I’m currently learning **Testing and AI**
+- 🌱 I’m currently learning **Automation and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
