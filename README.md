@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Naomi</h1>
-<h3 align="center">Coming from a background in Biology, I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to switch careers and become a front-end developer. I like to live with purpose, all the time I’m looking for my work to have a positive social impact and minimize my environmental impact. <br><br>
+<h3 align="center">Coming from a background in Biology, I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to switch careers and become a tech explorer, I'm usually on the lookout for new technologies and practices to learn, and  this has been a fascinating journey so far.<br><br>
 
-I'm usually on the lookout for new technologies or practices to learn, and  this has been a fascinating journey so far. <br><br>
+Curious fact: I like to live with purpose, I’m looking for my work to have a positive social impact and minimize my environmental impact (yes, even in tech).<br><br>
 </h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Testing cool apps!**
 
 - 🌱 I’m currently learning **Testing and AI**
 
