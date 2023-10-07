@@ -1,4 +1,4 @@
-**Hi 👋, I'm Naomi**
+<h1 align="center">Hi 👋, I'm Naomi</h1>
 <br>
 <br>
 **_Coming from a background in Biology, I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to become a tech explorer. I'm usually on the lookout for new technologies and practices to learn, and this has been a fascinating journey so far. A curious fact is that I'm looking for my work to have a positive social impact and minimize my environmental impact (yes we can! even in tech)_**
