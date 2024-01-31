@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Testing cool apps!**
 
-- 🌱 I’m currently learning **Automation (cypress) and AI**
+- 🌱 I’m currently learning **Playwright and Python**
 
 - 🤝 I’m looking for help with **an AI project**
 
