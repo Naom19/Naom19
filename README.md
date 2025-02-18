@@ -2,16 +2,16 @@
 <br>
 <br>
 
-<h3 align="center">I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to become a 'tech explorer', I'm usually on the lookout for new technologies and practices to learn, and this has been a fascinating journey so far. A curious fact is that I'm looking for my work to have a positive impact and minimize my environmental impact (yes we can! even in tech)</h3>
+<h3 align="center">I've always been passionate about the intersection of science and technology, and it's at this crossroad that I decided to become a 'tech explorer', I'm usually on the lookout for new technologies and practices to learn, and this has been a fascinating journey so far. A curious fact is that I'm from looking for my work to have a positive impact and minimize my environmental impact</h3>
 <br>
 
-- 🔭 I’m currently working on **Testing cool apps!**
+- 🔭 I’m currently working on **Testing cool apps built by great engineers!**
 
-- 🌱 I’m currently learning **Playwright and Python**
+- 🌱 I’m currently learning **Guardrails and AI ethics**
 
-- 🤝 I’m looking for help with **an AI project**
+- 🤝 I’m looking for help with **Environmental genomics project**
 
-- 💬 Ask me about **testing**
+- 💬 Ask me about **testing, bioinformatics or accessibility**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
